@@ -5,7 +5,7 @@
 - 🔭 Atualmente estudando JavaScript e Java
 - 🌱 Trabalhando apenas em projetos proprios
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Amo pesquisar e nos momentos livres jogar Rocket League
+- ⚡ Estudante da FUNEC Riacho 
 
 <div align="center">
   <a href="https://github.com/pedroD630">
