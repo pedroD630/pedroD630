@@ -1,4 +1,4 @@
-### Olá, eu sou o Pedro, estudante de programação e tecnologia!
+### Olá, eu sou o Pedro
 
 
 
