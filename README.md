@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estudando JavaScript e Java
 - 🌱 Trabalhando apenas em projetos proprios
-- 😄 É mais fácil obter o que se deseja com um sorriso do que à ponta da espada.
+- 😄 "É mais fácil obter o que se deseja com um sorriso do que à ponta da espada." - William Shakespeare
 - ⚡ Estudante da FUNEC Riacho 
 
 <div align="center">
