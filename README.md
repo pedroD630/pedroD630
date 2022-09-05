@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estudando JavaScript e Java
 - 🌱 Trabalhando apenas em projetos proprios
-- 😄 Pronouns: ele/dele
+- 😄 É mais fácil obter o que se deseja com um sorriso do que à ponta da espada.
 - ⚡ Estudante da FUNEC Riacho 
 
 <div align="center">
