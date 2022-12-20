@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente estudando JavaScript e Java
-- 🌱 Trabalhando apenas em projetos proprios
+- 🔭 Atualmente estudando Ciência da Computação
+- 🌱 Em busca do primeiro job
 - 💪 "Não peça uma vida mais fácil, peça para ser uma pessoa mais forte." - John F. Kennedy
 - ⚡ Estudante da FUNEC Riacho 
 
