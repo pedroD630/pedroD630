@@ -2,10 +2,10 @@
 
 
 
-- 🔭 Atualmente estudando Ciência da Computação
+- 🔭 Atualmente estudando front-end e programação mobile com Flutter
 - 🌱 Em busca do primeiro job
 - 💪 "Não peça uma vida mais fácil, peça para ser uma pessoa mais forte." - John F. Kennedy
-- ⚡ Estudante da FUNEC Riacho 
+- ⚡ Estudante de Informática na FUNEC 
 
 <div align="center">
   <a href="https://github.com/pedroD630">
