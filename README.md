@@ -3,8 +3,8 @@
 
 
 - 🔭 Atualmente estudando Desenvolvimento Web e Programação para Mobile.
-- 🌱 Em busca do primeiro job
-- 💪 "Não peça uma vida mais fácil, peça para ser uma pessoa mais forte." - John F. Kennedy
+- 🌱 Em busca do primeiro estágio
+- 💪 "Como você faz qualquer coisa é como você faz tudo" - T. Harv Eker
 - ⚡ Estudante de Informática na FUNEC 
 
 <div align="center">
