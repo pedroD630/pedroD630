@@ -2,10 +2,10 @@
 
 
 
-- 🔭 Atualmente estudando Desenvolvimento Web e Programação para Mobile.
-- 🌱 Em busca do primeiro estágio
+- 🔭 Atualmente estudando Desenvolvimento Web ( PWAs ) e um pouco de PHP e SQL.
+- 🌱 Estagiário na FUNEC
 - 💪 "Como você faz qualquer coisa é como você faz tudo" - T. Harv Eker
-- ⚡ Estudante de Informática na FUNEC 
+- ⚡ Cursando Técnico em Informática na FUNEC 
 
 <div align="center">
   <a href="https://github.com/pedroD630">
@@ -16,7 +16,8 @@
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Pedro-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <img align="center" alt="Pedro-CI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg">
     <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
