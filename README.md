@@ -3,9 +3,9 @@
 
 
 - 🔭 Atualmente estudando Desenvolvimento Web ( PWAs ) e um pouco de PHP e SQL.
-- 🌱 Estagiário na FUNEC
+- 🌱 Desenvolvedor voluntário do aplicativo BLACO
 - 💪 "Como você faz qualquer coisa é como você faz tudo" - T. Harv Eker
-- ⚡ Cursando Técnico em Informática na FUNEC 
+- ⚡ Formado no curso Técnico em Informática na FUNEC 
 
 <div align="center">
   <a href="https://github.com/pedroD630">
