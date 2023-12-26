@@ -2,10 +2,11 @@
 
 
 
-- 🔭 Atualmente estudando Desenvolvimento Web ( PWAs ) e um pouco de PHP e SQL.
-- 🌱 Desenvolvedor voluntário do aplicativo BLACO
+- 🔭 Atualmente estudando Desenvolvimento Web ( com PHP  e Javascript ), explorando C e aprendendo sobre PWAs.
+- :books: Cursando Engenharia de Software na UniCesumar
+- :milky_way: Desenvolvedor voluntário do aplicativo BLACO
 - 💪 "Como você faz qualquer coisa é como você faz tudo" - T. Harv Eker
-- ⚡ Formado no curso Técnico em Informática na FUNEC 
+- :mortar_board: Formado no curso Técnico em Informática na FUNEC 
 
 <div align="center">
   <a href="https://github.com/pedroD630">
