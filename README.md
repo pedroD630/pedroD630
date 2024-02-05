@@ -1,6 +1,11 @@
 ### Olá, eu sou o Pedro
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,jquery,bootstrap,html,css,c" />
+  <br/>
+  <a href="https://www.linkedin.com/in/pedrohensil06"><kbd>🔵 Meu LinkedIn </kbd></a> 
+</p>
+<br></br>
 
 - 🔭 Atualmente estudando Desenvolvimento Web ( com PHP  e Javascript ), explorando C e aprendendo sobre PWAs.
 - :books: Cursando Engenharia de Software na UniCesumar
