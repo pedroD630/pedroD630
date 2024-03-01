@@ -15,8 +15,9 @@
 
 <div align="center">
   <a href="https://github.com/pedroD630">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroD630&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroD630&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroD630&theme=dark&show_icons=true&hide_border=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroD630&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroD630&theme=dark&hide_border=false"/>
 </div>
   
   
